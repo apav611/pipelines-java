@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/adpavlik/ApJava/_apis/build/status/apav611.pipelines-java?branchName=master)](https://dev.azure.com/adpavlik/ApJava/_build/latest?definitionId=8?branchName=master)
 
 # Contributing
 
